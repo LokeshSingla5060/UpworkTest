@@ -1,0 +1,5 @@
+searchTextField: (//input[@name='q'])[3]
+searchIcon: (//button[@type='submit'])[2]
+profileDescription: //span[@ng-show='open']
+title: (//div[@class='up-active-container']/h3/span/span)[1]
+skills: //div[@class='o-profile-skills m-sm-top ng-scope']

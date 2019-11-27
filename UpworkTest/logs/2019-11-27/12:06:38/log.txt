@@ -1,0 +1,58 @@
+# Logfile created on 2019-11-27 12:06:38 +0530 by logger.rb/66358
+I, [2019-11-27T12:06:38.726790 #25217]  INFO -- : ############ Test Case testCase001 Execution started ############
+I, [2019-11-27T12:06:38.726878 #25217]  INFO -- : Test Data is set for browser name : chrome
+I, [2019-11-27T12:06:38.726974 #25217]  INFO -- : Test Data is set for application url : https://www.upwork.com/
+I, [2019-11-27T12:06:38.727032 #25217]  INFO -- : Test Data is set for keyword : performance
+I, [2019-11-27T12:06:38.727061 #25217]  INFO -- : Initializing WebDriver instance
+I, [2019-11-27T12:06:41.928985 #25217]  INFO -- : Initiate chrome browser
+I, [2019-11-27T12:06:47.938394 #25217]  INFO -- : Navigate to https://www.upwork.com/
+I, [2019-11-27T12:06:47.938507 #25217]  INFO -- : WebDriver instance is initialized
+I, [2019-11-27T12:06:47.938552 #25217]  INFO -- : search keyword for freelancer
+I, [2019-11-27T12:06:47.945493 #25217]  INFO -- : ********* Search FreeLancer for performance *********
+I, [2019-11-27T12:06:48.449074 #25217]  INFO -- : Click on Search Freelancer textfield
+I, [2019-11-27T12:06:48.813122 #25217]  INFO -- : Clicked on Search Freelancer textfield
+I, [2019-11-27T12:06:48.917764 #25217]  INFO -- : Send performance in Search Freelancer textfield
+I, [2019-11-27T12:06:49.329878 #25217]  INFO -- : Sent performance in Search Freelancer textfield
+I, [2019-11-27T12:06:49.329949 #25217]  INFO -- : Click on Search Icon
+I, [2019-11-27T12:06:56.927858 #25217]  INFO -- : Clicked on Search Icon
+I, [2019-11-27T12:06:57.550863 #25217]  INFO -- : Freelancer Name : John P.
+I, [2019-11-27T12:06:57.646272 #25217]  INFO -- : Freelancer Name : Dmitry R.
+I, [2019-11-27T12:06:57.734404 #25217]  INFO -- : Freelancer Name : Ivan P.
+I, [2019-11-27T12:06:57.842266 #25217]  INFO -- : Freelancer Name : Maciej K.
+I, [2019-11-27T12:06:57.976644 #25217]  INFO -- : Freelancer Name : Emmanuel S.
+I, [2019-11-27T12:06:58.098627 #25217]  INFO -- : Freelancer Name : Sayed Shaista A.
+I, [2019-11-27T12:06:58.194884 #25217]  INFO -- : Freelancer Name : MobiDev
+I, [2019-11-27T12:06:58.309811 #25217]  INFO -- : Freelancer Name : Eugene U.
+I, [2019-11-27T12:06:58.406041 #25217]  INFO -- : Freelancer Name : Miha Č.
+I, [2019-11-27T12:06:58.523342 #25217]  INFO -- : Freelancer Name : Peter C.
+I, [2019-11-27T12:06:58.523425 #25217]  INFO -- : **** Freelancer not present with keyword ****
+I, [2019-11-27T12:06:58.523460 #25217]  INFO -- : John P.
+I, [2019-11-27T12:06:58.523508 #25217]  INFO -- : **** Freelancer not present with keyword ****
+I, [2019-11-27T12:06:58.523596 #25217]  INFO -- : Dmitry R.
+I, [2019-11-27T12:06:58.523644 #25217]  INFO -- : **** Freelancer present with keyword ****
+I, [2019-11-27T12:06:58.523695 #25217]  INFO -- : Ivan P.
+I, [2019-11-27T12:06:58.523734 #25217]  INFO -- : **** Freelancer not present with keyword ****
+I, [2019-11-27T12:06:58.523770 #25217]  INFO -- : Maciej K.
+I, [2019-11-27T12:06:58.523801 #25217]  INFO -- : **** Freelancer not present with keyword ****
+I, [2019-11-27T12:06:58.523824 #25217]  INFO -- : Emmanuel S.
+I, [2019-11-27T12:06:58.523848 #25217]  INFO -- : **** Freelancer not present with keyword ****
+I, [2019-11-27T12:06:58.523870 #25217]  INFO -- : Sayed Shaista A.
+I, [2019-11-27T12:06:58.523893 #25217]  INFO -- : **** Freelancer not present with keyword ****
+I, [2019-11-27T12:06:58.523915 #25217]  INFO -- : MobiDev
+I, [2019-11-27T12:06:58.523940 #25217]  INFO -- : **** Freelancer not present with keyword ****
+I, [2019-11-27T12:06:58.523975 #25217]  INFO -- : Eugene U.
+I, [2019-11-27T12:06:58.524018 #25217]  INFO -- : **** Freelancer not present with keyword ****
+I, [2019-11-27T12:06:58.524057 #25217]  INFO -- : Miha Č.
+I, [2019-11-27T12:06:58.524097 #25217]  INFO -- : **** Freelancer present with keyword ****
+I, [2019-11-27T12:06:58.524138 #25217]  INFO -- : Peter C.
+I, [2019-11-27T12:06:58.547563 #25217]  INFO -- : Miha Č. is selected
+I, [2019-11-27T12:07:05.623978 #25217]  INFO -- : Profile Description : I am a versatile and productive programmer with a strong background in mathematics, physics, and general problem solving.
+
+I am mostly focused on high-performance computing, including GPU programming, low-overhead networking, parallel algorithms, and performance optimizations in general. However, I am a quick learner and am always ready to approach new and difficult problems.
+
+I am a strong believer in using the right tool for the right job, and I follow best practices whenever possible. I always make sure that my code is secure, readable, and maintainable. less
+                    
+I, [2019-11-27T12:07:05.661713 #25217]  INFO -- : Title : High-Performance GPU & CPU Programmer
+I, [2019-11-27T12:07:05.707481 #25217]  INFO -- : Skills : Qt C++ OpenCL Python Physics OpenGL GNU Octave MATLAB Python Numpy
+I, [2019-11-27T12:07:05.707590 #25217]  INFO -- : performance Keyword is matched in profile description
+I, [2019-11-27T12:07:05.707625 #25217]  INFO -- : ############ Test Case testCase001 Execution completed ############
